@@ -10,7 +10,7 @@ This project involves designing and populating an E-Commerce database, highlight
 - **Normalized Database Schema:** Tables for products, genres, users, transactions, and more, with appropriate relations.
 - **Complex SQL Queries:** Includes procedures, joins, and data manipulation for insightful data retrieval.
 - **Automated ETL Pipeline:** Python scripts for extracting data from web sources, transforming, and loading it into MySQL.
-- **Web Scraping:** Utilizing `requests` and `BeautifulSoup` to extract book data from an online store.
+- **Web Scraping:** Utilising `requests` and `BeautifulSoup` to extract book data from an online store.
 
 ## Technologies Used
 - MySQL
