@@ -29,7 +29,8 @@ A comprehensive ETL (Extract, Transform, Load) process is integral to this proje
 An ER diagram is provided to visualize the database schema (generated using MySQL Workbench).
 
 ## License
-[MIT License](LICENSE.txt)
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ## Contact
 Pretty Karibo - prettykaribo@gmail.com
 
